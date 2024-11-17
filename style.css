@@ -35,6 +35,19 @@ section img{
     width: 200px;
     border-radius: 10px;
 }
+.forgive img{
+    float: left;
+}
+.com img{
+    width: 205px;
+}
+h3{
+    background-color: blueviolet;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 footer{
     color: #fff;
 }
